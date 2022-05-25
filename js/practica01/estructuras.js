@@ -9,7 +9,7 @@ for(i=0; i<numbers.length; i+=1){
 }
 console.log(suma/numbers.length);
  //Objetos
- console.log("Crear objeto con laos valores que lleva un objeto con pares [key,value]");
+ console.log("Crear objeto con los valores que lleva un objeto con pares [key,value]");
  let car=[["brand","Nissan"],["model","Versa"],["year",2022]];
  var arCar=[];
  var obj={};
